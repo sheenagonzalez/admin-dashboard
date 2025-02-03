@@ -1,5 +1,5 @@
 # admin-dashboard
-In order to practice what I learned about CSS Grids from the Odin Project's Intermediate HTML and CSS Course, I created an admin dashboard following the design specs from the course. I created an Admin Dashboard with a sidebar containing the menu, a header with the user information, search and action buttons, and a main content with project cards, an announcements list and a trending list.
+In order to practice what I learned about CSS Grids from the Odin Project's Intermediate HTML and CSS Course, I created an admin dashboard following the design specs from the course. This dashboard includes a sidebar containing the menu and a header containing the user information, a search bar and some action buttons. The main content includes a grid layout of project cards and a list of announcements and trending items.
 
 ## Credits
 
